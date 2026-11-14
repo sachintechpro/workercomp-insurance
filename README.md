@@ -6,7 +6,7 @@ A role-based California workers compensation workflow workspace aligned to Guide
 
 ## Open the workspace
 
-The homepage introduces the workflow and lets reviewers choose a role. Sample state is saved in the browser with `localStorage`; use **Reset sample data** in QA Workbench to restore the original records.
+The homepage explains the demo, gives a four-step walkthrough, and provides direct launch cards for each role and work area. Each card selects the matching role and opens its page. **Demo home** remains available in the sidebar. Sample state is saved in the browser with `localStorage`; use **Reset sample data** in QA Workbench to restore the original records.
 
 ## Role views
 
